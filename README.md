@@ -1,2 +1,1 @@
-# recoverseed
-Cryptocurrency Seed Recovery
+# Cryptocurrency Seed Recovery
